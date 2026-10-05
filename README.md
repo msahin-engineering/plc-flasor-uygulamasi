@@ -30,3 +30,5 @@ Repository içerisinde TIA Portal V18 ile oluşturulmuş `.zap18` proje arşivi 
 ## Ladder Diyagramı
 
 Programın Ladder diyagramı aşağıda gösterilmektedir.
+
+![PLC Flaşör Uygulaması Ladder Diyagramı](flasor-ladder-diyagrami.png)
